@@ -11,22 +11,14 @@
 }
 
 :root{
-    /* --color-bg: #1f1f38; */
+
     --color-bg: #ededf3;
-    /* --color-bg-variant: #2c2c6c; */
     --color-bg-variant: #bfbfd4;
-    /* --color-primary: #6f44be; */
     --color-primary: #6f44be;
-    /* --color-primary-variant: rgba(77, 181, 255, 0.4); */
     --color-primary-variant: rgba(14, 132, 221, 0.4);
-    /* --color-white: #fff; */
     --color-white: #111010;
-    /* --color-light: rgba(255, 255, 255, 0.6); */
     --color-light: rgba(19, 18, 18, 0.6);
-
     --transition: all 400ms ease;
-
-
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%;
