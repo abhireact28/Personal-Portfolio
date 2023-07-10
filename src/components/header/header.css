@@ -63,24 +63,18 @@ header{
 }
 
 /* ====MEDIA QUERIES (MEDIUM DEVICES)===== */
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 3000px) {
     header {
-        height: 55vh;
+        height: 35vh;
     }
     
 }
 
-@media screen and (max-width: 920px) {
-    header {
-        height: 32vh;
-    }
-    
-}
 
 /* ====MEDIA QUERIES (SMALL DEVICES)===== */
 @media screen and (max-width: 600px) {
     header {
-        height: 48vh;
+        height: 26vh;
     }
     .header__container h1{
         font-size: 1.5rem;
@@ -96,18 +90,13 @@ header{
 /* ====MEDIA QUERIES (SMALL DEVICES)===== */
 @media screen and (max-width: 420px) {
     header {
-        height: 35vh;
+        height: 30vh;
     }
 
 }
 
 
-@media screen and (max-width: 380px) {
-    header {
-        height: 45vh;
-    }
 
-}
 
 
 
